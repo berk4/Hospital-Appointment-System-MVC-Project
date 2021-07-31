@@ -23,10 +23,9 @@ Patient side functionality:
 • Book appointment
 • List/search appointments
 • Cancellation appointment
-• Feedback (evaluation)
+• Feedback
 • Contact with doctor (messaging)
 • List messages
-• Feedback
 
 Doctor side functionality:
 • Sign up
