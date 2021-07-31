@@ -1,7 +1,7 @@
 # Hospital-Appointment-System-MVC-Project
-ASP.NET database management system project that has MVC structure with using MSSQL
+*ASP.NET database management system project that has MVC structure with using MSSQL*
 
-The project is developed on Visual Studio.
+*The project is developed on Visual Studio.*
 
 About Project
 There are generally three main users in the project. These are admin, doctor and patient.
