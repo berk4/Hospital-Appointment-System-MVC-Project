@@ -15,9 +15,9 @@ way, doctor entrance checks are made. However, adding a patient can only happen 
 the patient becomes a member.
 The application (web site) uses Asp.net as a front-end and SQL database as the backend.
 
-Functionality
+**Functionality**
 
-Patient side functionality:
+**Patient side functionality:**
 - Sign up
 - Sign in
 - Book appointment
@@ -27,7 +27,7 @@ Patient side functionality:
 - Contact with doctor (messaging)
 - List messages
 
-Doctor side functionality:
+**Doctor side functionality:**
 - Sign up 
 - Sign in
 - List/search patients
@@ -38,7 +38,7 @@ Doctor side functionality:
 - Contact with patient (messaging)
 - List messages
 
-Admin side functionality:
+**Admin side functionality:**
 - View user data (patient and doctor)
 - View feedbacks
 - View appointments
