@@ -18,31 +18,31 @@ The application (web site) uses Asp.net as a front-end and SQL database as the b
 Functionality
 
 Patient side functionality:
-• Sign up
-• Sign in
-• Book appointment
-• List/search appointments
-• Cancellation appointment
-• Feedback
-• Contact with doctor (messaging)
-• List messages
+- Sign up
+- Sign in
+- Book appointment
+- List/search appointments
+- Cancellation appointment
+- Feedback
+- Contact with doctor (messaging)
+- List messages
 
 Doctor side functionality:
-• Sign up \n
-• Sign in
-• List/search patients
-• List/search appointments
-• Organization book appointment
-• List of all book appointments
-• List feedbacks
-• Contact with patient (messaging)
-• List messages
+- Sign up 
+- Sign in
+- List/search patients
+- List/search appointments
+- Organization book appointment
+- List of all book appointments
+- List feedbacks
+- Contact with patient (messaging)
+- List messages
 
 Admin side functionality:
-• View user data (patient and doctor)
-• View feedbacks
-• View appointments
-• Add doctor and information
+- View user data (patient and doctor)
+- View feedbacks
+- View appointments
+- Add doctor and information
 
 Doctor, patient, admin, appointment, evaluation (feedback), and message are entities for this project.
 
