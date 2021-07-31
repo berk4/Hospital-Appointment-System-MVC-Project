@@ -28,7 +28,7 @@ Patient side functionality:
 • List messages
 
 Doctor side functionality:
-• Sign up /n
+• Sign up \n
 • Sign in
 • List/search patients
 • List/search appointments
